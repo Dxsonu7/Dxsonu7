@@ -1,7 +1,7 @@
 <h3 align="center">Sonu Gupta</h3>
 <h1 align="center">Software Engineer</h1>
 
-<p align="center"><img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" width="100px"></p>
+<p align="center"><img src="https://github.com/Dxsonu7/Dxsonu7/assets/87947158/bfef7909-78ee-4646-bb89-9075e47c1720" width="200px"></p>
 
 <br>
 
