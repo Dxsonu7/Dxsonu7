@@ -6,7 +6,7 @@
 <br>
 
 <p>
-👋 Hi there! I'm Sonu, a Software Engineer, College and CodePath.org student passionate about increasing diversity and equity in technology. I was born in Birgunj, Nepal in a multicultural family and I am currently based in Iowa, United States. My journey as a first generation college student to Software Engineer has shaped me into the person I am today. Coming from a non-traditional background, I am committed to making technical knowledge accessible in hopes to inspire and empower others to pursue careers in technology, ultimately making a positive impact in the world. 🚀
+👋 Hi there! I'm Sonu, a Software Engineer, CodePath.org and College student passionate about increasing diversity and equity in technology. I was born in Birgunj, Nepal in a multicultural family and I am currently based in Iowa, United States. My journey as a first generation college student to Software Engineer has shaped me into the person I am today. Coming from a non-traditional background, I am committed to making technical knowledge accessible in hopes to inspire and empower others to pursue careers in technology, ultimately making a positive impact in the world. 🚀
 </p>
 
 <br>
