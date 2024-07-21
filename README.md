@@ -6,7 +6,9 @@
 <br>
 
 <p>
-👋 Hi there! I'm Sonu, a Software engineer, CodePath.org fellow, Develop For Good volunteer and Northwestern college student passionate about increasing diversity and equity in technology. I was born in Birgunj, Nepal in a multicultural family and I am currently based in Iowa, United States. My journey as a first generation college student to software engineer has shaped me into the person I am today. Coming from a non-traditional background, I am committed to impacting people's lives through the medium of technology. 🚀
+👋 Hi there! I'm Sonu, a first-generation college student pursuing a degree in Computer Science and Mathematics. I'm an experienced Software Engineer with over 2 years of technical expertise, actively contributing to AI/ML, Full-stack Development, Android Development, Desktop Application Development, and Technical Product Management. 🚀
+
+💜 I love to invest in myself through various opportunities. As a lifelong learner, I'm highly curious and motivated, enjoying collaboration with diverse teams. I thrive on solving real-world technical problems and empowering clients with client-centric technologies. I'm always seeking new opportunities to grow as a software engineer and student, aiming to impact people's lives through technology. 🚀
 </p>
 
 <br>
