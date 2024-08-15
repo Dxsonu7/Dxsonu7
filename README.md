@@ -6,9 +6,9 @@
 <br>
 
 <p>
-👋 Hi there! I'm Sonu, a first-generation college student pursuing a degree in Computer Science and Mathematics. I'm an experienced Software Engineer with over 2 years of technical expertise, actively contributing to AI/ML, Full-stack Development, Android Development, Desktop Application Development, and Technical Product Management. 🚀
+👋 Hi there! I'm Sonu, a <b>first-generation</b> college student pursuing a degree in Computer Science and Mathematics. I have over <b>2 years of industry experience</b> as a Software Engineer intern, with expertise in <b>AI/ML, Full-stack Development, Mobile Development</b>, and Technical Product Management. 🚀
 
-💜 I love to invest in myself through various opportunities. As a lifelong learner, I'm highly curious and motivated, enjoying collaboration with diverse teams. I thrive on solving real-world technical problems and empowering clients with client-centric technologies. I'm always seeking new opportunities to grow as a software engineer and student, aiming to impact people's lives through technology. 🚀
+💜 I <b>invest</b> in myself through various opportunities and am a <b>lifelong learner, highly curious and motivated</b>. I enjoy collaborating with diverse teams and thrive on solving <b>real-world technical problems</b>. I empower clients with client-centric technologies and am always seeking opportunities to grow, striving to make positive <b>impacts through technology</b>. 🚀
 </p>
 
 <br>
@@ -23,4 +23,4 @@
 <br>
 
 [linkedin]: https://www.linkedin.com/in/sonu-gupta-731536190/
-[website]: https://dxsonu7.github.io/
+[website]: https://sonu-gupta.vercel.app/
