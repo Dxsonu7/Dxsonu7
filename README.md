@@ -30,9 +30,9 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 ### 📍 What Am I Doing?
 - 📋 Currently I am:
   - Wrapping up my internship @ NBC Universal
-  - Improving my Software Development skills, improving my design pattern and architectural knowledge
+  - Enhancing my software development skills by deepening my understanding of design patterns and software architecture
   - Working on Full-stack and Mobile projects (Private repos)
-  - Looking for New-grad full-time Software/Tech opportunities 
+  - Looking for New-grad full-time Software/Tech opportunities (May 2025 grad)
 
 ### 🔗 Connect with me:
 
