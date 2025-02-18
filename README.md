@@ -25,7 +25,7 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
   - Interned at Vermeer Corporation as a Software Engineer (Full-stack, Embedded, and Desktop Apps)
   - Interned at Diamond Vogel as a Programming Intern (Web Development and Database Programming)
   - Received scholarship and stipend from Google to attend TechWise bootcamp virtually and at Carneige Mellon University
-  - Lead Student IT Technician at Northwestern College (manage 12+ workstudy and support 1700+ staff and college student on campus)
+  - Lead Student IT Technician at Northwestern College (manage 12+ workstudy and support 1700+ staff and college student)
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
