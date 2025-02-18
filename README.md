@@ -12,7 +12,7 @@ I excel in cross-cultural/cross-functional communication, collaborating with pro
 class Sonu:
 def __init__(self):
 self.status = ["First Generation","Senior at Northwestern"]
-self.traits = ["Finance-nerd", "Techy", "Physic and Astronomy Lover"]
+self.traits = ["Finance-nerd", "Techy", "Physics and Astronomy Lover"]
 self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 ```
 
