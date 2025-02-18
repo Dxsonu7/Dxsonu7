@@ -1,17 +1,38 @@
-<h3 align="center">Sonu Gupta</h3>
+<h3 align="center">About Me📮</h3>
 <h1 align="center">Software Engineer</h1>
 
 <p align="center"><img src="https://github.com/Dxsonu7/Dxsonu7/assets/87947158/bfef7909-78ee-4646-bb89-9075e47c1720" width="200px" target="_blank"></p>
 
-<br>
+I'm Sonu — I've completed 4+ internships, focusing on full-stack development, Gen AI, and mobile software projects with an emphasis on architectural patterns.
+I excel in cross-cultural/cross-functional communication, collaborating with product managers, designers, and engineers to develop client-centric solutions that enhance user experience. By leveraging data-driven insights, I help businesses make informed decisions.
 
-<p>
-👋 Hi there! I'm Sonu, a <b>first-generation</b> college student pursuing a degree in Computer Science and Mathematics. I have over <b>2 years of industry experience</b> as a Software Engineer intern, with expertise in <b>AI/ML, Full-stack Development, Mobile Development</b>, and Technical Product Management. 🚀
+### 🚀 A little about my background
 
-💜 I <b>invest</b> in myself through various opportunities and am a <b>lifelong learner, highly curious and motivated</b>. I enjoy collaborating with diverse teams and thrive on solving <b>real-world technical problems</b>. I empower clients with client-centric technologies and am always seeking opportunities to grow, striving to make positive <b>impacts through technology</b>. 🚀
-</p>
+```python
+class Sonu:
+def __init__(self):
+self.status = ["First Generation","Senior at Northwestern"]
+self.traits = ["Finance-nerd", "Techy", "Physic and Astronomy Lover"]
+self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
+```
 
-<br>
+💻 I fell in love with computers at the age of 8, fixing old laptops and building computers for family and friends. The problem-solving, the satisfaction of turning parts into something functional, and the endless possibilities of the cyber world—especially cybersecurity—kept me hooked. I’ve always been passionate about learning and consuming tech content. That same excitement reignited during my senior year of high school, leading me to earn a full scholarship to study Computer Science. Now, I'm pursuing a degree in Computer Science with a focus on Software Engineering and Mathematics, and I've interned at top Fortune companies.
+
+### 💼 Credentials
+- **Experience:**
+  - Interned at NBCUniversal as a Software Engingeer, Android (Shipping and debugging products used by 10 millions users) 
+  - Interned at Union Pacific as a Software Engineer, Gen AI (Reduce information retrival time from hours to second - RAG, LLMs, Semantic chunking)
+  - Interned at Vermeer Corporation as a Software Engineer (Full-stack, Embedded, and Desktop Apps)
+  - Interned at Diamond Vogel as a Programming Intern (Web Development and Database Programming)
+  - Received scholarship and stipend from Google to attend TechWise bootcamp virtually and at Carneige Mellon University
+  - Lead Student IT Technician at Northwestern College (manage 12+ workstudy and support 1700+ staff and college student on campus)
+
+# 📍 What Am I Doing?
+- 📋 Currently I am:
+  - Wrapping up my internship @ NBC Universal
+  - Improving my Software Development skills, improving my design pattern and architectural knowledge
+  - Working on Full-stack and Mobile projects (Private repos)
+  - Looking for New-grad full-time Software/Tech opportunities 
 
 ### 🔗 Connect with me:
 
@@ -22,5 +43,5 @@
 
 <br>
 
-[linkedin]: https://www.linkedin.com/in/sonu-gupta-731536190/
+[linkedin]: https://www.linkedin.com/in/dxsonu/
 [website]: https://sonu-gupta.vercel.app/
