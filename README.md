@@ -3,8 +3,7 @@
 
 <p align="center"><img src="https://github.com/Dxsonu7/Dxsonu7/assets/87947158/bfef7909-78ee-4646-bb89-9075e47c1720" width="200px" target="_blank"></p>
 
-I'm Sonu — I've completed 4+ internships, focusing on full-stack development, Gen AI, and mobile software projects with an emphasis on architectural patterns.
-I excel in cross-cultural/cross-functional communication, collaborating with product managers, designers, and engineers to develop client-centric solutions that enhance user experience. By leveraging data-driven insights, I help businesses make informed decisions.
+I'm Sonu—I've completed 4+ internships, specializing in full-stack development, Generative AI, and mobile software projects with a focus on architectural patterns. I excel in cross-cultural and cross-functional communication, collaborating with product managers, designers, and engineers to build client-centric solutions that enhance user experience. By leveraging data-driven insights, I help businesses make informed decisions and drive impact.
 
 ### 🚀 A little about my background
 
