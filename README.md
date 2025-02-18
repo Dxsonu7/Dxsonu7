@@ -27,7 +27,7 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
   - Received scholarship and stipend from Google to attend TechWise bootcamp virtually and at Carneige Mellon University
   - Lead Student IT Technician at Northwestern College (manage 12+ workstudy and support 1700+ staff and college student)
 
-# 📍 What Am I Doing?
+### 📍 What Am I Doing?
 - 📋 Currently I am:
   - Wrapping up my internship @ NBC Universal
   - Improving my Software Development skills, improving my design pattern and architectural knowledge
