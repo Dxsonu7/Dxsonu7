@@ -18,16 +18,16 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 💻 I fell in love with computers at the age of 8, fixing old laptops and building computers for family and friends. The problem-solving, the satisfaction of turning parts into something functional, and the endless possibilities of the cyber world—especially cybersecurity—kept me hooked. I’ve always been passionate about learning and consuming tech content. That same excitement reignited during my senior year of high school, leading me to earn a full scholarship to study Computer Science. Now, I'm pursuing a degree in Computer Science with a focus on Software Engineering and Mathematics, and I've interned at top Fortune companies.
 
 ### 💼 Credentials
-- **Experience:**
-  - Interned at NBCUniversal as a Software Engineer, Android (Shipping and debugging products used by 10 millions users) 
+- **🛠️ Experience:**
+  - Interning at NBCUniversal as a Software Engineer, Android (Shipping and debugging products used by 10 millions users) 
   - Interned at Union Pacific as a Software Engineer, Gen AI (Reduce information retrieval time from hours to second - RAG, LLMs, Semantic chunking)
   - Interned at Vermeer Corporation as a Software Engineer (Full-stack, Embedded, and Desktop Apps)
   - Interned at Diamond Vogel as a Programming Intern (Web Development and Database Programming)
   - Received scholarship and stipend from Google to attend TechWise bootcamp virtually and at Carneige Mellon University
-  - Lead Student IT Technician at Northwestern College (manage 12+ workstudy and support 1700+ staff and college student)
+  - Lead Student IT Technician at Northwestern College (managed 12+ workstudy and support 1700+ staff and college student)
 
 ### 📍 What Am I Doing?
-- 📋 Currently I am:
+- **📋 Currently I am:**
   - Wrapping up my internship @ NBC Universal
   - Enhancing my software development skills by deepening my understanding of design patterns and software architecture
   - Working on Full-stack and Mobile projects (Private repos)
