@@ -11,7 +11,7 @@ I'm Sonu—I've completed 4+ internships, specializing in full-stack development
 class Sonu:
 def __init__(self):
 self.status = ["First Generation","Senior at Northwestern"]
-self.traits = ["Finance-nerd", "Techy", "Physics and Astronomy Lover"]
+self.traits = ["Finance-nerd", "Techy", "Physics and Astronomy Lover", "Foodie"]
 self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 ```
 
