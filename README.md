@@ -19,8 +19,8 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 
 ### 💼 Credentials
 - **Experience:**
-  - Interned at NBCUniversal as a Software Engingeer, Android (Shipping and debugging products used by 10 millions users) 
-  - Interned at Union Pacific as a Software Engineer, Gen AI (Reduce information retrival time from hours to second - RAG, LLMs, Semantic chunking)
+  - Interned at NBCUniversal as a Software Engineer, Android (Shipping and debugging products used by 10 millions users) 
+  - Interned at Union Pacific as a Software Engineer, Gen AI (Reduce information retrieval time from hours to second - RAG, LLMs, Semantic chunking)
   - Interned at Vermeer Corporation as a Software Engineer (Full-stack, Embedded, and Desktop Apps)
   - Interned at Diamond Vogel as a Programming Intern (Web Development and Database Programming)
   - Received scholarship and stipend from Google to attend TechWise bootcamp virtually and at Carneige Mellon University
