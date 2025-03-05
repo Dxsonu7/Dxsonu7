@@ -5,7 +5,7 @@
 
 I'm Sonu—I've completed 4+ internships, specializing in full-stack development, Generative AI, and mobile software projects with a focus on architectural patterns. I excel in cross-cultural and cross-functional communication, collaborating with product managers, designers, and engineers to build client-centric solutions that enhance user experience. By leveraging data-driven insights, I help businesses make informed decisions and drive impact.
 
-### 🚀 A little about my background
+### 🚀 A little about my background and journey
 
 ```python
 class Sonu:
@@ -15,7 +15,7 @@ self.traits = ["Finance-nerd", "Techy", "Physics and Astronomy Lover", "Foodie"]
 self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 ```
 
-💻 I fell in love with computers at the age of 8, fixing old laptops and building computers for family and friends. The problem-solving, the satisfaction of turning parts into something functional, and the endless possibilities of the cyber world—especially cybersecurity—kept me hooked. I’ve always been passionate about learning and consuming tech content. That same excitement reignited during my senior year of high school, leading me to earn a full scholarship to study Computer Science. Now, I'm pursuing a degree in Computer Science with a focus on Software Engineering and Mathematics, and I've interned at top Fortune companies.
+💻 I fell in love with computers at the age of 8 — breaking them apart, putting them back together, troubleshooting until they worked, and building computers for family and friends. The problem-solving, the satisfaction of turning parts into something functional, and the endless possibilities of the digital world — especially software and cybersecurity — kept me hooked. I’ve always been passionate about learning and consuming tech content. That same excitement reignited during my senior year of high school, leading me to earn a full scholarship to study Computer Science. Now, I'm finalizing my degree in Computer Science with a focus on Software Engineering and have interned at leading companies.
 
 ### 💼 Credentials
 - **🛠️ Experience:**
@@ -28,10 +28,11 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 
 ### 📍 What Am I Doing?
 - **📋 Currently I am:**
-  - Wrapping up my internship @ NBC Universal
+  - Wrapping up my internship @ NBCUniversal - gaining experience working with large-scale software and applications
   - Enhancing my software development skills by deepening my understanding of design patterns and software architecture
-  - Working on Full-stack and Mobile projects (Private repos)
-  - Looking for New-grad full-time Software/Tech opportunities (May 2025 grad)
+  - Constantly improving my knowledge of OOP and Data Structures & Algorithms
+  - Working on full-stack and mobile projects - fintech app (Private repos)
+  - Actively seeking new-grad, full-time software/tech opportunities (graduating May 2025)
 
 ### 🔗 Connect with me:
 
