@@ -31,8 +31,7 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
   - Wrapping up my internship @ NBCUniversal - gaining experience working with large-scale software and applications
   - Enhancing my software development skills by deepening my understanding of design patterns and software architecture
   - Constantly improving my knowledge of OOP and Data Structures & Algorithms
-  - Working on full-stack and mobile projects - fintech app (Private repos)
-  - Actively seeking new-grad, full-time software/tech opportunities (graduating May 2025)
+  - Working on full-stack and mobile projects - fintech app (Stealth mode)
 
 ### 🔗 Connect with me:
 
