@@ -35,12 +35,10 @@ self.hobbies = ["Table-tennis", "Biking", "Coding", "Esports", "Music"]
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="Sonu Gupta | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Sonu Gupta | Personal Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />][website]
 
 <br><br>
 
 <br>
 
-[linkedin]: https://www.linkedin.com/in/dxsonu/
 [website]: https://sonu-gupta.vercel.app/
